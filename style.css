@@ -30,8 +30,6 @@ section {
   }
 
   .video:hover {
-    width: 50%;
-    background-color: red;
-    scale: 1.1;
+    width: 80%;
   }
 }
